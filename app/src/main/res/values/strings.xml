@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CitekTest</string>
+    <string name="wellcome">Wellcome</string>
+    <string name="enter_password_please">Enter password please</string>
+    <string name="select_user_please">Select User please</string>
+    <string name="login">Login</string>
+    <string name="your_name">Your name</string>
+    <string name="users">Пользователь не выбран</string>
+</resources>
